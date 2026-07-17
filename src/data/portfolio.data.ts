@@ -51,47 +51,47 @@ export const PROJECTS: Project[] = [
     type: 'P2P App / Secure Chat',
     desc: 'Privacy-focused P2P chat. Go backend and Svelte/Wails frontend.',
     tech: ['Go', 'Svelte', 'Wails', 'TypeScript', 'Docker'],
-    url: 'https://github.com/iLadyLuh/projekt-redware'
+    url: 'https://github.com/luna-gelmini/projekt-redware'
   },
   {
     title: 'AstraNet',
     type: 'Monitoring / Steam',
     desc: 'Real-time monitoring for Steam (CS2). Python + Discord Webhooks.',
     tech: ['Python', 'SteamCMD CLI', 'Discord Webhooks'],
-    url: 'https://github.com/iLadyLuh/AstraNet'
+    url: 'https://github.com/luna-gelmini/AstraNet'
   },
   {
     title: 'Nyxia',
     type: 'Library / API Wrapper',
     desc: 'Discord API wrapper in Java. Focus on OOP and robust bots.',
     tech: ['Java', 'HTTP/WebSocket'],
-    url: 'https://github.com/iLadyLuh/Nyxia'
+    url: 'https://github.com/luna-gelmini/Nyxia'
   },
   {
     title: 'DesyncPlugin',
     type: 'Minecraft Plugin',
     desc: 'Plugin that manipulates network packets to alter movement mechanics.',
     tech: ['Java', 'Spigot/Bukkit API', 'Packet Handling'],
-    url: 'https://github.com/iLadyLuh/DesyncPlugin'
+    url: 'https://github.com/luna-gelmini/DesyncPlugin'
   },
   {
     title: 'nyowzers-lib',
     type: 'Utility Library',
     desc: 'JS/Node.js utilities following the DRY philosophy.',
     tech: ['JavaScript', 'Node.js'],
-    url: 'https://github.com/iLadyLuh/nyowzers-lib'
+    url: 'https://github.com/luna-gelmini/nyowzers-lib'
   },
   {
     title: 'Nodus',
     type: 'Task Engine / Automation',
     desc: 'Task engine in C with Lua integration for scripting.',
     tech: ['C', 'Lua'],
-    url: 'https://github.com/iLadyLuh/Nodus'
+    url: 'https://github.com/luna-gelmini/Nodus'
   }
 ];
 
 export const SOCIALS: Social[] = [
-  { name: 'GitHub', url: 'https://github.com/iLadyLuh', icon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>` }
+  { name: 'GitHub', url: 'https://github.com/luna-gelmini', icon: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>` }
 ];
 
 export const POEMS: Poem[] = [
