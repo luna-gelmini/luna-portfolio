@@ -63,7 +63,7 @@ export class ProjectsComponent implements OnInit {
   async ngOnInit() {
     try {
       // Fetch public repos from user 'iLadyLuh'
-      const response = await fetch('https://api.github.com/users/iLadyLuh/repos?sort=updated&per_page=12');
+      const response = await fetch('https://api.github.com/users/luna-gelmini/repos?sort=updated&per_page=12');
       if (!response.ok) {
         throw new Error('Falha ao buscar repositórios da GitHub API');
       }
