@@ -40,7 +40,7 @@ import { Component, ChangeDetectionStrategy, Input } from '@angular/core';
 
         <div class="grid grid-cols-[80px_1fr] gap-y-2 text-xs md:text-sm">
           <span class="text-pink-500 font-bold">OS</span> <span class="text-gray-400">NixOS x86_64</span>
-          <span class="text-pink-500 font-bold">Host</span> <span class="text-gray-400">portifolio</span>
+          <span class="text-pink-500 font-bold">Host</span> <span class="text-gray-400">portfolio</span>
           <span class="text-pink-500 font-bold">Kernel</span> <span class="text-gray-400">Linux</span>
           <span class="text-pink-500 font-bold">Current Time</span> <span class="text-gray-400">{{ currentTime }}</span>
           <span class="text-pink-500 font-bold">Shell</span> <span class="text-gray-400">fish</span>
